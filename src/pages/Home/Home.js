@@ -2,9 +2,19 @@ import React from 'react';
 
 const Home = () => {
   return (
-    <div>
-      <h1>Home Page</h1>
-    </div>
+    <main className="container">
+      {/* top banner */}
+      {/* services */}
+      {/* portfolio */}
+      {/* about */}
+      {/* features */}
+      {/* testimonials */}
+      {/* faq */}
+      {/* our blog */}
+      {/* contact */}
+      {/* bottom banner */}
+      {/* footer */}
+    </main>
   );
 };
 
