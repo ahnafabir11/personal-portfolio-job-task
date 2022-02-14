@@ -21,4 +21,8 @@
   .section-title-dark {
     @apply text-[#391400] text-4xl md:text-5xl font-bold
   }
+
+  .section-title-light {
+    @apply text-white text-4xl md:text-5xl font-bold
+  }
 }

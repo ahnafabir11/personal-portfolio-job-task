@@ -1,14 +1,14 @@
 import React from 'react';
-import Services from '../../components/Services';
 import TopBanner from '../../components/TopBanner';
+import Services from '../../components/Services';
+import Portfolio from '../../components/Portfolio';
 
 const Home = () => {
   return (
     <main>
       <TopBanner />
       <Services />
-
-      {/* portfolio */}
+      <Portfolio />
       
       {/* about */}
       {/* features */}
