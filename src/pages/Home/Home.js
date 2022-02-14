@@ -5,13 +5,11 @@ import TopBanner from '../../components/TopBanner';
 const Home = () => {
   return (
     <main>
-      {/* top banner */}
       <TopBanner />
-
-      {/* services */}
       <Services />
-      
+
       {/* portfolio */}
+      
       {/* about */}
       {/* features */}
       {/* testimonials */}
