@@ -3,7 +3,7 @@ import topBannerImage from '../images/top-banner-image.png';
 
 const TopBanner = () => {
   return (
-    <section className="my-8 md:my-36 flex flex-col-reverse md:flex-row md:items-center gap-10">
+    <section className="container my-8 md:my-36 flex flex-col-reverse md:flex-row md:items-center gap-10">
       {/* text part */}
       <div className="flex-1 space-y-5">
         <h6 className="text-[#EF6D58]">GABRIEL PIRES</h6>

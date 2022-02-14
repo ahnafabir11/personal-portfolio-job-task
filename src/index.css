@@ -17,4 +17,8 @@
   .filled-btn {
     @apply uppercase text-sm font-medium px-6 py-2 rounded bg-[#EF6D58] hover:bg-[#f35c44]
   }
+
+  .section-title-dark {
+    @apply text-[#391400] text-4xl md:text-5xl font-bold
+  }
 }

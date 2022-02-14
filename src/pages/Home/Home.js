@@ -1,13 +1,16 @@
 import React from 'react';
+import Services from '../../components/Services';
 import TopBanner from '../../components/TopBanner';
 
 const Home = () => {
   return (
-    <main className="container">
+    <main>
       {/* top banner */}
       <TopBanner />
-      
+
       {/* services */}
+      <Services />
+      
       {/* portfolio */}
       {/* about */}
       {/* features */}
