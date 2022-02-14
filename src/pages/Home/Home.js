@@ -1,9 +1,12 @@
 import React from 'react';
+import TopBanner from '../../components/TopBanner';
 
 const Home = () => {
   return (
     <main className="container">
       {/* top banner */}
+      <TopBanner />
+      
       {/* services */}
       {/* portfolio */}
       {/* about */}
