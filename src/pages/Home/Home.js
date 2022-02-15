@@ -3,6 +3,7 @@ import TopBanner from '../../components/TopBanner';
 import Services from '../../components/Services';
 import Portfolio from '../../components/Portfolio';
 import About from '../../components/About';
+import Features from '../../components/Features';
 
 const Home = () => {
   return (
@@ -11,8 +12,8 @@ const Home = () => {
       <Services />
       <Portfolio />
       <About />
+      <Features />
       
-      {/* features */}
       {/* testimonials */}
       {/* faq */}
       {/* our blog */}
