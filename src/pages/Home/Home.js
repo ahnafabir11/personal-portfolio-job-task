@@ -5,6 +5,7 @@ import Portfolio from '../../components/Portfolio';
 import About from '../../components/About';
 import Features from '../../components/Features';
 import Testimonial from '../../components/Testimonial';
+import Faq from '../../components/Faq';
 
 const Home = () => {
   return (
@@ -15,8 +16,8 @@ const Home = () => {
       <About />
       <Features />
       <Testimonial />
+      <Faq />
       
-      {/* faq */}
       {/* our blog */}
       {/* contact */}
       {/* bottom banner */}
