@@ -1,4 +1,5 @@
 import React from 'react';
+import PortBtmBanner from '../../components/PortBtmBanner';
 import PortfolioBanner from '../../components/PortfolioBanner';
 import PortfolioList from '../../components/PortfolioList';
 
@@ -7,7 +8,7 @@ const Portfolio = () => {
     <main>
       <PortfolioBanner />
       <PortfolioList />
-      {/* bootm banner */}
+      <PortBtmBanner />
       {/* footer */}
     </main>
   );

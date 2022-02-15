@@ -72,7 +72,7 @@ const PortfolioList = () => {
           }
         </div>
 
-        <button className="filled-btn bg-white text-[#391400] block mx-auto my-10">see more</button>
+        <button className="filled-btn bg-white text-[#391400] block mx-auto mt-10">see more</button>
       </div>
     </section>
   );
