@@ -4,11 +4,11 @@ import AccordionDetails from '@mui/material/AccordionDetails';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import Typography from '@mui/material/Typography';
 import { ChevronDoubleUpIcon } from '@heroicons/react/solid';
-import brandImg1 from '../images/brand1.png';
-import brandImg2 from '../images/brand2.png';
-import brandImg3 from '../images/brand3.png';
-import brandImg4 from '../images/brand4.png';
-import brandImg5 from '../images/brand5.png';
+import brandImg1 from '../../images/brand1.png';
+import brandImg2 from '../../images/brand2.png';
+import brandImg3 from '../../images/brand3.png';
+import brandImg4 from '../../images/brand4.png';
+import brandImg5 from '../../images/brand5.png';
 
 const questionsList = [
   {

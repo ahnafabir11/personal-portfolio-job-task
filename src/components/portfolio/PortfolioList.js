@@ -1,8 +1,8 @@
 import React from 'react';
-import portfolio1 from '../images/portfolio-1.png';
-import portfolio2 from '../images/portfolio-2.png';
-import portfolio3 from '../images/portfolio-3.png';
-import ProjectBox from './ProjectBox';
+import portfolio1 from '../../images/portfolio-1.png';
+import portfolio2 from '../../images/portfolio-2.png';
+import portfolio3 from '../../images/portfolio-3.png';
+import ProjectBox from '../common/ProjectBox';
 
 const workList = [
   {

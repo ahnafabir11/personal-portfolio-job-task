@@ -1,15 +1,15 @@
 import React from 'react';
-import TopBanner from '../../components/TopBanner';
-import Services from '../../components/Services';
-import Portfolio from '../../components/Portfolio';
-import About from '../../components/About';
-import Features from '../../components/Features';
-import Testimonial from '../../components/Testimonial';
-import Faq from '../../components/Faq';
-import Blog from '../../components/Blog';
-import Contact from '../../components/Contact';
-import BottomBanner from '../../components/BottomBanner';
-import Footer from '../../components/Footer';
+import TopBanner from '../../components/home/TopBanner';
+import Services from '../../components/home/Services';
+import Portfolio from '../../components/home/Portfolio';
+import About from '../../components/home/About';
+import Features from '../../components/home/Features';
+import Testimonial from '../../components/home/Testimonial';
+import Faq from '../../components/home/Faq';
+import Blog from '../../components/home/Blog';
+import Contact from '../../components/home/Contact';
+import BottomBanner from '../../components/home/BottomBanner';
+import Footer from '../../components/common/Footer';
 
 const Home = () => {
   return (

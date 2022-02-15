@@ -1,8 +1,8 @@
 import React from 'react';
 import ReviewBox from './ReviewBox';
-import clientImage1 from '../images/client1.png';
-import clientImage2 from '../images/client2.png';
-import clientImage3 from '../images/client3.png';
+import clientImage1 from '../../images/client1.png';
+import clientImage2 from '../../images/client2.png';
+import clientImage3 from '../../images/client3.png';
 
 const clientReviews = [
   {

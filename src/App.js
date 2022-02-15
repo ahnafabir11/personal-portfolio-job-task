@@ -5,7 +5,7 @@ import {
 import Home from "./pages/Home/Home";
 import Portfolio from "./pages/Portfolio/Portfolio";
 import NotFound from "./pages/404/NotFound";
-import NavigationBar from "./components/NavigationBar";
+import NavigationBar from "./components/common/NavigationBar";
 
 function App() {
   return (

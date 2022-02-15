@@ -1,5 +1,5 @@
 import React from 'react';
-import topBannerImage from '../images/top-banner-image.png';
+import topBannerImage from '../../images/top-banner-image.png';
 
 const TopBanner = () => {
   return (

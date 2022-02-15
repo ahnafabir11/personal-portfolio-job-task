@@ -1,6 +1,6 @@
 import React from 'react';
-import topBannerImage from '../images/top-banner-image.png';
-import getStartedImage from '../images/block.png';
+import topBannerImage from '../../images/top-banner-image.png';
+import getStartedImage from '../../images/block.png';
 import { CheckIcon } from '@heroicons/react/outline';
 import { GiftIcon } from '@heroicons/react/outline';
 

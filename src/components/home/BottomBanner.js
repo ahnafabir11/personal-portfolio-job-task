@@ -1,11 +1,11 @@
 import React from 'react';
-import topBannerImage from '../images/top-banner-image.png';
-import bottomImg1 from '../images/bottom1.png';
-import bottomImg2 from '../images/bottom2.png';
-import bottomImg3 from '../images/bottom3.png';
-import bottomImg4 from '../images/bottom4.png';
-import bottomImg5 from '../images/bottom5.png';
-import bottomImg6 from '../images/bottom6.png';
+import topBannerImage from '../../images/top-banner-image.png';
+import bottomImg1 from '../../images/bottom1.png';
+import bottomImg2 from '../../images/bottom2.png';
+import bottomImg3 from '../../images/bottom3.png';
+import bottomImg4 from '../../images/bottom4.png';
+import bottomImg5 from '../../images/bottom5.png';
+import bottomImg6 from '../../images/bottom6.png';
 
 const BottomBanner = () => {
   return (

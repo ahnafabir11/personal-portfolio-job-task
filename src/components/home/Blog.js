@@ -1,7 +1,7 @@
 import React from 'react';
-import blogCover1 from '../images/blog1.png';
-import blogCover2 from '../images/blog2.png';
-import blogCover3 from '../images/blog3.png';
+import blogCover1 from '../../images/blog1.png';
+import blogCover2 from '../../images/blog2.png';
+import blogCover3 from '../../images/blog3.png';
 
 const blogList = [
   {

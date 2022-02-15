@@ -1,5 +1,5 @@
 import React from 'react';
-import topBannerImage from '../images/top-banner-image.png';
+import topBannerImage from '../../images/top-banner-image.png';
 import { DesktopComputerIcon } from '@heroicons/react/outline';
 import { BriefcaseIcon } from '@heroicons/react/outline';
 import ExperienceBox from './ExperienceBox';
