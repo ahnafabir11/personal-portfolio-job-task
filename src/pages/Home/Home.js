@@ -8,6 +8,7 @@ import Testimonial from '../../components/Testimonial';
 import Faq from '../../components/Faq';
 import Blog from '../../components/Blog';
 import Contact from '../../components/Contact';
+import BottomBanner from '../../components/BottomBanner';
 
 const Home = () => {
   return (
@@ -21,8 +22,8 @@ const Home = () => {
       <Faq />
       <Blog />
       <Contact />
-      
-      {/* bottom banner */}
+      <BottomBanner />
+
       {/* footer */}
     </main>
   );

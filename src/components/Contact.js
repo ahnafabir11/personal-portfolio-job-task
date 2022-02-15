@@ -6,7 +6,7 @@ import { MailIcon } from '@heroicons/react/solid';
 const Contact = () => {
   return (
     <section className="container py-20">
-      <div className="flex items-center gap-10 md:gap-20">
+      <div className="flex flex-col md:flex-row md:items-center gap-10 md:gap-20">
         <div className="flex-1 bg-white p-10 rounded-md space-y-5">
           <h5 className="text-[#391400] text-xl font-bold">Get In Touch</h5>
 
