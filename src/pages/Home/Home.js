@@ -6,6 +6,7 @@ import About from '../../components/About';
 import Features from '../../components/Features';
 import Testimonial from '../../components/Testimonial';
 import Faq from '../../components/Faq';
+import Blog from '../../components/Blog';
 
 const Home = () => {
   return (
@@ -17,8 +18,8 @@ const Home = () => {
       <Features />
       <Testimonial />
       <Faq />
+      <Blog />
       
-      {/* our blog */}
       {/* contact */}
       {/* bottom banner */}
       {/* footer */}
