@@ -9,6 +9,7 @@ import Faq from '../../components/Faq';
 import Blog from '../../components/Blog';
 import Contact from '../../components/Contact';
 import BottomBanner from '../../components/BottomBanner';
+import Footer from '../../components/Footer';
 
 const Home = () => {
   return (
@@ -23,8 +24,7 @@ const Home = () => {
       <Blog />
       <Contact />
       <BottomBanner />
-
-      {/* footer */}
+      <Footer />
     </main>
   );
 };
