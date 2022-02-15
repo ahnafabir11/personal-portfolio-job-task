@@ -7,6 +7,7 @@ import Features from '../../components/Features';
 import Testimonial from '../../components/Testimonial';
 import Faq from '../../components/Faq';
 import Blog from '../../components/Blog';
+import Contact from '../../components/Contact';
 
 const Home = () => {
   return (
@@ -19,8 +20,8 @@ const Home = () => {
       <Testimonial />
       <Faq />
       <Blog />
+      <Contact />
       
-      {/* contact */}
       {/* bottom banner */}
       {/* footer */}
     </main>

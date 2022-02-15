@@ -11,8 +11,8 @@ const Features = () => {
       <div className="container flex flex-col md:flex-row md:items-center gap-10 md:gap-20 py-16 lg:py-28">
         <div className="flex-1 space-y-5">
           <h6 className="text-[#EF6D58]">FEATURES</h6>
-          <h2 className="section-title-light">Give Your Site <br /> A New Look</h2>
-          <p className="text-lg">Service range including technical skills, design, <br /> business understanding.</p>
+          <h2 className="section-title-light">Contact Me</h2>
+          <p className="text-lg">A digital agency is a business you hire to outsource your <br /> digital marketing efforts, instead of handling in-house.</p>
           <div className="space-y-3">
             <div className="flex items-center gap-5">
               <div className="bg-[#EF6D58] rounded-full p-1">
