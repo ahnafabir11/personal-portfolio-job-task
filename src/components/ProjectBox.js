@@ -1,8 +1,12 @@
 import React from 'react';
 
-const ProjectBox = ({bgImage, tagName, title}) => {
+const ProjectBox = ({ bgImage, tagName, title, border }) => {
   return (
-    <div className="border rounded border-gray-300 p-5 relative">
+    <div className={
+      border
+        ? "border rounded border-gray-300 p-5 relative"
+        : "border-gray-300 relative"
+    }>
       <img src={bgImage} alt="" className="w-full" />
 
       <div className="space-y-4 absolute bottom-14 left-14">

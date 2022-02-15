@@ -1,10 +1,15 @@
 import React from 'react';
+import PortfolioBanner from '../../components/PortfolioBanner';
+import PortfolioList from '../../components/PortfolioList';
 
 const Portfolio = () => {
   return (
-    <div>
-      <h1>Portfolio Page</h1>
-    </div>
+    <main>
+      <PortfolioBanner />
+      <PortfolioList />
+      {/* bootm banner */}
+      {/* footer */}
+    </main>
   );
 };
 
